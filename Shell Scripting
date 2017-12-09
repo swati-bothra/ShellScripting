@@ -18,7 +18,7 @@
 --> chmod +x file.extension
 
 //declare var
-// variables do not survive the end of the script i.e in terminal echo $var1 is not outputed.
+// variables do not survive the end of the script i.e in terminal echo $var1 will not output.
 //var1 do not run outside the script.
 
 --> var1="sxdcfvg"
