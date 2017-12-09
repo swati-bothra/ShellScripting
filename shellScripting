@@ -1,0 +1,19 @@
+//Shell script is interpreted not compiled//
+//vim --> i-insert :wq :q! W-front of next word B-backward move 0-start of line
+			$-end of line  G-jump to last line A-append mode to end of file V+downkeys-select D-to delete//
+
+
+1. cat /etc/shells   {to show supported shells}{cat - concatnate files}
+
+	-- /bin/sh --> bourne shell (first shell)
+	-- /bin/bash --> bourne again shell
+
+2. which bash {to find location of bash}
+
+3. touch {to crate a file with updating date n time of last access}
+	
+4. ls -al {to show permissions of file}
+
+**VARIABLES**
+
+-- System vari -->. $BASH, $BASH_VERSION, $PWD, $HOME

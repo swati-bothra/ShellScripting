@@ -1,0 +1,32 @@
+// to get your Shell 
+
+--> echo $SHELL
+
+//sign #! is called she-bang
+//start your script with #! followed by the shell name.
+
+--> #!bin/bash
+    hello SWATI
+
+//Comment in SS
+
+--> #
+  
+ 
+//give executable permission
+
+--> chmod +x file.extension
+
+//declare var
+// variables do not survive the end of the script i.e in terminal echo $var1 is not outputed.
+//var1 do not run outside the script.
+
+--> var1="sxdcfvg"
+    echo $var1
+
+//
+
+
+
+
+ 
